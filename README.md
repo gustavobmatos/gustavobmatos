@@ -9,7 +9,7 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos.
 
 ---
 
-##Sobre mim
+**Sobre mim**
 
 Atualmente curso **Desenvolvimento de Sistemas** e busco evoluir cada vez mais na área da programação.
 
@@ -21,25 +21,25 @@ Atualmente estudando desenvolvimento web, programação orientada a objetos e ba
 
 ##Tecnologias e Ferramentas
 
-### Front-end
+**Front-end**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### Back-end
+**Back-end**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
-### Banco de Dados
+**Banco de Dados**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Ferramentas
+**Ferramentas**
 
 <p>
   <img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
@@ -47,7 +47,7 @@ Atualmente estudando desenvolvimento web, programação orientada a objetos e ba
 
 ---
 
-Contato
+**Contato**
 
 - 📧 Email: guwhitebitl@gmail.com
 - 🌐 Portfólio: Em breve...
