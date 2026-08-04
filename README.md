@@ -1,6 +1,6 @@
 <div align="center">
 
-#Olá, meu nome é Gustavo Branco Bitencourt de Matos
+Olá, meu nome é Gustavo Branco Bitencourt de Matos
 
 Estudante de **Desenvolvimento de Sistemas**  
 3º ano do Ensino Médio  
@@ -47,7 +47,7 @@ Atualmente estudando desenvolvimento web, programação orientada a objetos e ba
 
 ---
 
-##Contato
+Contato
 
 - 📧 Email: guwhitebitl@gmail.com
 - 🌐 Portfólio: Em breve...
