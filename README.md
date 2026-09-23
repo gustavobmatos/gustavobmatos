@@ -4,7 +4,7 @@
 
 Estudante de **Desenvolvimento de Sistemas**  
 3º ano do Ensino Médio  
-17 anos  
+18 anos  
 Sempre aprendendo novas tecnologias e desenvolvendo projetos.
 
 ---
