@@ -30,7 +30,7 @@ Atualmente estudando desenvolvimento web, programação orientada a objetos e ba
 **Back-end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>
 
 **Banco de Dados**
